@@ -1,0 +1,6 @@
+id=touch.invert.remap
+name=Touch Invert Remapper
+version=1.0
+versionCode=1
+author=K-Black
+description=临时翻转触控 Y 轴的 Magisk 模块。请注意风险（需要 root）。
